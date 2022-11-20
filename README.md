@@ -1,4 +1,4 @@
-# Interfacing-Seven-segment-display-with-lpc2148
+# EX-NO: 8 Interfacing-Seven-segment-display-with-lpc2148
 
 Name: Silambarasan K
 Roll no 212221230101
